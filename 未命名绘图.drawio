@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T06:49:30.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="RNFzmDtp8bBw4cvApGL7" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T07:36:38.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="7o08Vm1qg_PhyUm0uXkw" version="22.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="815" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,19 +88,19 @@
             <mxPoint x="130" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="knHTFE6z7iOE985WpFY_-28" value="矿床地质特征" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="knHTFE6z7iOE985WpFY_-28" value="岩体测年" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="299.69" y="100" width="100.31" height="40" as="geometry" />
         </mxCell>
         <mxCell id="knHTFE6z7iOE985WpFY_-29" value="石榴石U-Pb测年" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="299.69" y="220" width="100.31" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="knHTFE6z7iOE985WpFY_-30" value="成矿物质来源" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="knHTFE6z7iOE985WpFY_-30" value="岩体全分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="299.69" y="160" width="100.31" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="knHTFE6z7iOE985WpFY_-31" value="石榴石U-Pb测年" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="knHTFE6z7iOE985WpFY_-31" value="原位微区硫同位素" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="299.69" y="280" width="100.31" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="knHTFE6z7iOE985WpFY_-32" value="原位微区微量元素" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="knHTFE6z7iOE985WpFY_-32" value="流体包裹体测温&lt;br&gt;+拉曼光谱" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="299.69" y="340" width="100.31" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blVpgFFELeMKtGCo7wOv-0" value="" style="endArrow=none;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
@@ -214,6 +214,21 @@
         </mxCell>
         <mxCell id="blVpgFFELeMKtGCo7wOv-27" value="矿床成因" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="590" y="220" width="100.31" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EzFnGeIkoz2O85e2BJYY-2" value="原位微区微量元素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="299.69" y="400" width="100.31" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EzFnGeIkoz2O85e2BJYY-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="269.69" y="419.71" as="sourcePoint" />
+            <mxPoint x="299.69" y="419.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzFnGeIkoz2O85e2BJYY-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="419.71" as="sourcePoint" />
+            <mxPoint x="430" y="419.71" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
